@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://icon-library.com/images/cydia-icon/cydia-icon-12.jpg</string>
+					<string>https://raw.githubusercontent.com/Italogc/Respring/main/SpringBoard.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.saurik.cydia</string>
+				<string>com.saurik.springboard</string>
 				<key>bundle-version</key>
-				<string>0.9</string>
+				<string>7.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Cydia</string>
+				<string>SpringBoard</string>
 			</dict>
 		</dict>
 	</array>
