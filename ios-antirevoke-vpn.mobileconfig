@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://y5orj5gvbz.cloudflare-gateway.com/dns-query</string>
+				<string>https://a.ns.apple.com</string>
 			</dict>
 			<key>OnDemandRules</key>
 			<array>
