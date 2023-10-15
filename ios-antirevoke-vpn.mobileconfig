@@ -34,7 +34,7 @@
 			<key>PayloadDisplayName</key>
 			<string>iTalogc iOS Antirevoke DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed1</string>
+			<string>com.apple.dnsSettings.manager</string>
 			<key>PayloadOrganization</key>
 			<string>Apple Inc.</string>
 			<key>PayloadType</key>
@@ -74,7 +74,7 @@
 			<key>PayloadDisplayName</key>
 			<string>iTalogc iOS Antirevoke DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed2</string>
+			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
 			<string>Apple Inc.</string>
 			<key>PayloadType</key>
