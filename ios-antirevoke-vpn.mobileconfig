@@ -50,7 +50,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://m388zwt366.cloudflare-gateway.com/dns-query</string>
+				<string>https://b.ns.apple.com</string>
 			</dict>
 			<key>OnDemandRules</key>
 			<array>
