@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://a.ns.apple.com</string>
+				<string>https://d.gtld-servers.net</string>
 			</dict>
 			<key>OnDemandRules</key>
 			<array>
