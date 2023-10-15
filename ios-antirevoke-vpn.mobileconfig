@@ -34,11 +34,11 @@
 			<key>PayloadDisplayName</key>
 			<string>iTalogc iOS Antirevoke DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.manager</string>
+			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadOrganization</key>
 			<string>Apple Inc.</string>
 			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed.1</string>
+			<string>com.apple.dnsSettings.managed.9d981129-d086-4891-b2cf-165ede3f8a90</string>
 			<key>PayloadUUID</key>
 			<string>0085f63c-ab6d-45ae-9f87-8e0cef7335d4</string>
 			<key>PayloadVersion</key>
