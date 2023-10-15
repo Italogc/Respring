@@ -78,7 +78,7 @@
 			<key>PayloadOrganization</key>
 			<string>Apple Inc.</string>
 			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed.2</string>
+			<string>com.apple.dnsSettings.managed.fac89862-8acc-466a-a412-81fdc856dae2</string>
 			<key>PayloadUUID</key>
 			<string>231184fd-09c0-450a-a34a-e3185fff5f75</string>
 			<key>PayloadVersion</key>
